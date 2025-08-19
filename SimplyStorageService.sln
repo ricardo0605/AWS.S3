@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customers.Api", "Customers.Api\Customers.Api.csproj", "{1CD1950B-BB1E-718D-EAEB-A5DBCF52CC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3Playground", "S3Playground\S3Playground.csproj", "{71A0DE9B-97FF-99AC-866A-7BCB1AE1EE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD1950B-BB1E-718D-EAEB-A5DBCF52CC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD1950B-BB1E-718D-EAEB-A5DBCF52CC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD1950B-BB1E-718D-EAEB-A5DBCF52CC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD1950B-BB1E-718D-EAEB-A5DBCF52CC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A0DE9B-97FF-99AC-866A-7BCB1AE1EE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A0DE9B-97FF-99AC-866A-7BCB1AE1EE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A0DE9B-97FF-99AC-866A-7BCB1AE1EE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A0DE9B-97FF-99AC-866A-7BCB1AE1EE31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA00B7A-B169-42AF-B7A8-BDCD0C61EE00}
+	EndGlobalSection
+EndGlobal
