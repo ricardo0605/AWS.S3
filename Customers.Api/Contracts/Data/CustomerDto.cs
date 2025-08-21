@@ -9,7 +9,7 @@ public class CustomerDto
 
     [JsonPropertyName("sk")]
     public string Sk => Pk;
-    
+
     public string Id { get; init; } = default!;
 
     public string GitHubUsername { get; init; } = default!;
@@ -19,6 +19,6 @@ public class CustomerDto
     public string Email { get; init; } = default!;
 
     public DateTime DateOfBirth { get; init; }
-    
+
     public DateTime UpdatedAt { get; set; }
 }

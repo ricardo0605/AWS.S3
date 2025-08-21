@@ -1,9 +1,9 @@
-﻿using System.Net;
-using System.Text.Json;
-using Amazon.DynamoDBv2;
+﻿using Amazon.DynamoDBv2;
 using Amazon.DynamoDBv2.DocumentModel;
 using Amazon.DynamoDBv2.Model;
 using Customers.Api.Contracts.Data;
+using System.Net;
+using System.Text.Json;
 
 namespace Customers.Api.Repositories;
 
